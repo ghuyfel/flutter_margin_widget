@@ -1,3 +1,2 @@
-## [0.0.1] - TODO: Add release date.
-
-* TODO: Describe initial release.
+## [v0.0.2] - 4 August 2021
+* Updated license file.
