@@ -1,5 +1,7 @@
 # flutter_margin_widget
 
+[![.github/workflows/dart.yml](https://github.com/ghuyfel/flutter_margin_widget/actions/workflows/dart.yml/badge.svg?branch=master)](https://github.com/ghuyfel/flutter_margin_widget/actions/workflows/dart.yml)
+
 Flutter Margin widget that adds margin around your widget.
 
 ## Example
