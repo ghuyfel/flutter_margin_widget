@@ -38,3 +38,7 @@ jobs:
     
     # Run widget tests for our flutter project.
 #     - run: flutter test
+
+    # Publish package
+    - run: flutter pub publish --dry-run
+    - run: flutter pub publish
