@@ -2,6 +2,11 @@
 
 Flutter Margin widget that adds margin around your widget.
 
+## Example
+
+````dart
+  Margin(margin: const EdgeInsets.all(8.0), child: const ChildWidget())
+````
 ## Getting Started
 
 This project is a starting point for a Dart
