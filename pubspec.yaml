@@ -1,5 +1,5 @@
 name: flutter_margin_widget
-description: Flutter Margin widget that adds margin around your widget.
+description: Flutter Margin widget that adds margin around your widget. Instead of repeatedly wrap your widget around a container, use this widget the same way you would use Padding.
 version: 0.0.2
 homepage: https://github.com/ghuyfel/flutter_margin_widget
 
