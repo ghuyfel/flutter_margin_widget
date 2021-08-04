@@ -6,6 +6,7 @@ import 'package:flutter/widgets.dart';
 class Margin extends StatelessWidget {
   ///The margin to apply around this widget.
   final Widget child;
+
   ///The margin to apply.
   final EdgeInsetsGeometry margin;
 
